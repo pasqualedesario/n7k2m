@@ -1,0 +1,36 @@
+{
+  "name": "MAT laboratorio urbano",
+  "short_name": "MAT",
+  "description": "Spazio plurale per cultura, arti e formazione a Terlizzi (BA). Luogo di incontro, contaminazione e condivisione. Comunità nella comunità. Questo è il MAT!",
+  "start_url": "https://pasqualedesario.github.io/n7k2m",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#dc1e29",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "https://pasqualedesario.github.io/n7k2m/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://pasqualedesario.github.io/n7k2m/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://pasqualedesario.github.io/n7k2m/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://pasqualedesario.github.io/n7k2m/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
