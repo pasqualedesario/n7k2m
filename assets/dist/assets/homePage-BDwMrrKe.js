@@ -1,0 +1,1 @@
+function r(){const e=document.querySelector(".home-stage__video");if(!e)return;if(window.matchMedia("(prefers-reduced-motion: reduce)").matches){e.pause(),e.removeAttribute("autoplay");return}e.muted=!0,e.setAttribute("muted","");const t=()=>{e.play().catch(()=>{})};e.readyState>=2?t():e.addEventListener("loadeddata",t,{once:!0})}export{r as initHomePage};
